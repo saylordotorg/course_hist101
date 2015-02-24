@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Warring States Period and the Classical Age in China**
 <span id="4"></span> 
 *The breakdown of the Zhou Empire, in the third century B.C.E.,

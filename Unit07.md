@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Classical Age in India** <span id="7"></span> 
 *New kingdoms rose to power in Ganges River valley by 500 B.C.E.
  Urbanization emerged in the capitals of these kingdoms and near major

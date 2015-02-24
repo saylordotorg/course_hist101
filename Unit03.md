@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Early Civilizations in South and East Asia** <span
 id="3"></span> 
 *Like the ancient Middle East, civilizations in South and East Asia

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Neolithic Revolution and the Birth of Civilization** <span
 id="1"></span> 
 *Civilizations are societies that rely on sedentary agriculture, develop

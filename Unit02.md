@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Rise of Civilization in the Middle East, Africa, and the
 Mediterranean** <span id="2"></span> 
 *The first mature civilizations of the ancient world, Mesopotamia and

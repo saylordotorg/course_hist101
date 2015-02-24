@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: The Rise of Western Europe and the Spread of Civilization**
 <span id="12"></span> 
 *Before the medieval period, western Europe was one of the least

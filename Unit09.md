@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Rise of Islam** <span id="9"></span> 
 *From its point of origin in Arabia, Islam developed into a global
 civilization that eventually encompassed large portions of the Middle

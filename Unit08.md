@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Peoples of the Americas** <span id="8"></span> 
 *Civilizations in the Americas emerged separately from other major
 civilizations in the world.  The indigenous people of the Americas are

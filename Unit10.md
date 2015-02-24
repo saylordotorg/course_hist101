@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: African Civilizations** <span id="10"></span> 
 *Four major areas of civilization emerged in early Africa: the
 grasslands south of the Sahara, western Africa, the northern desert

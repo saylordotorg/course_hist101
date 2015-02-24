@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST101: Ancient Civilizations of the World"
+course_description: "An introductory survey of the major civilizations of the ancient world from the Paleolithic Era to the Middle Ages, with special emphasis on the nature and characteristics of 'civilized' society."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Roman Kingdom, Republic, and Empire** <span
 id="6"></span> 
 *Ancient Rome was characterized by three distinct periods—the Roman

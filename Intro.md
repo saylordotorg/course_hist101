@@ -124,14 +124,4 @@ as at the end of this course.</span>
 approximately **126 hours** to complete.  Note that each unit includes a
 specific time advisory.</span>
 
-<span dir="LTR">**Tips/Suggestions:** You will find it useful to use the
-following “Glossary of Ancient History Terms” throughout this
-course:</span>
-
--   <span dir="LTR">Ohio State University: History Department’s
-    “</span>[Glossary of Ancient History
-    Terms](http://ehistory.osu.edu/ancient/glossary.cfm)” (HTML)
-
-You may choose to peruse this glossary, but you do not need to read this
-entire glossary straight through.  Instead, save it as a bookmark in
-your web browser for consultation throughout this course.
+<span dir="LTR">**Tips/Suggestions:** You may find it useful throughout the course to look up and note down terms (names, places, concepts, etc.) that are unfamiliar to you.</span>

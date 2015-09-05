@@ -1,6 +1,16 @@
 Course Syllabus for "HIST101: Ancient Civilizations of the World"
 -----------------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_hist101) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 In this course, we will study the emergence of the major civilizations
 of the ancient world, beginning with the Paleolithic Era (about 2.5
 million years ago) and finishing with the end of the Middle Ages in

@@ -144,3 +144,4 @@ specific time advisory.</span>
 - [Unit 11](https://legacy.saylor.org/hist101/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist101/Unit12/)
 - [Unit 13](https://legacy.saylor.org/hist101/Unit13/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST101/HIST101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST101/HIST101-FinalExam-Answers.html)

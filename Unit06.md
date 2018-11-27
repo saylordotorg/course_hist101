@@ -189,12 +189,12 @@ id="6.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Study Questions for Ovid’s
     Metamorphoses”**
     Link: The Saylor Foundation’s “[Study Questions for Ovid’s
-    Metamorphoses](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-6.2.4-Study-Questions-for-Ovids-Metamorphases-FINAL.pdf)”
+    Metamorphoses](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-6.2.4-Study-Questions-for-Ovids-Metamorphases-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the study questions.  You can compare
     your answers to the “[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-6.2.4-Reading-Guide-for-Ovids-Metamorphases-Final.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-6.2.4-Reading-Guide-for-Ovids-Metamorphases-Final.pdf)”
     (PDF)
 
 **6.3 The Roman Empire** <span id="6.3"></span> 
@@ -294,7 +294,7 @@ id="6.1"></span> 
 
 -   **Reading: Saylor Foundation’s “Christianity and the Roman Empire”**
      Link: The Saylor Foundation’s “[Christianity and the Roman
-    Empire](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-6.4.2-ChristianityAndTheRomanEmpire-FINAL1.pdf)”
+    Empire](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-6.4.2-ChristianityAndTheRomanEmpire-FINAL1.pdf)”
     (PDF).  
       
      Instructions: Please read the entire article in order to get a

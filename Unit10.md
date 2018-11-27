@@ -156,7 +156,7 @@ id="10.1.3"></span> 
 **10.2.2 The Hausa Kingdoms** <span id="10.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Hausa Kingdoms”**
     Link: The Saylor Foundation’s “[The Hausa
-    Kingdoms](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-10.2.2-HausaKingdom-FINAL1.pdf)”
+    Kingdoms](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-10.2.2-HausaKingdom-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Hausa Kingdoms,” about the origins
@@ -220,7 +220,7 @@ beneath subunit 10.3.  Focus specifically on the radio program.*
 **10.4.2 Mwenemutapa** <span id="10.4.2"></span> 
 -   **Reading: The Saylor Foundation’s “Great Zimbabwe”**
     Link: The Saylor Foundation’s “[Great
-    Zimbabwe](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-10.4.2-GreatZimbabwe-FINAL1.pdf)”
+    Zimbabwe](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-10.4.2-GreatZimbabwe-FINAL1.pdf)”
     (PDF)  
         
      Instructions:  Please read this article in its entirety to learn

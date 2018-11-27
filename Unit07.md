@@ -63,7 +63,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Livius: Jona Lendering’s “Maurya Dynasty”**
     Link: Livius: Jona Lendering’s “[Maurya
-    Dynasty](http://www.saylor.org/site/wp-content/uploads/2011/09/Maurya-Dynasty.pdf)”
+    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Maurya-Dynasty.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article to get a sense of the
@@ -123,7 +123,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Gupta Empire: An Indian
     Golden Age”**
     The Saylor Foundation’s “[The Gupta Empire: An Indian Golden
-    Age](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-7.2.1-GuptaDynasty-FINAL1.pdf)”
+    Age](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-7.2.1-GuptaDynasty-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Gupta Empire” to get an overview of

@@ -62,7 +62,7 @@ Upon successful completion of this unit, you will be able to:
     History*: “The Near East, 3000-1500, B.C.”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History:*
     [“The Near East, 3000-1500,
-    B.C.”](http://www.saylor.org/site/wp-content/uploads/2011/09/The-Near-East_-3000-to-1500-B.C..pdf) (PDF)  
+    B.C.”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Near-East_-3000-to-1500-B.C..pdf) (PDF)  
         
      Instructions: Read this article and pay special attention to the
     section “Mesopotamia, Proper,” which offers a brief overview of
@@ -78,7 +78,7 @@ Upon successful completion of this unit, you will be able to:
     Mesopotamian Civilization”**
     Link: Nipissing University: Steve Muhlberger’s “[General
     Characteristics of Mesopotamian
-    Civilization](http://www.saylor.org/site/wp-content/uploads/2011/09/NU-2055-Lecture-4_-Mesopotamian-Civilization.pdf)”
+    Civilization](https://resources.saylor.org/archived/wp-content/uploads/2011/09/NU-2055-Lecture-4_-Mesopotamian-Civilization.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this lecture for a sense
@@ -137,17 +137,17 @@ Upon successful completion of this unit, you will be able to:
 -   **Assessment: The Saylor Foundation’s “Study Questions for the Epic
     of Gilgamesh”**
     Link: The Saylor Foundation’s [“Study Questions for the Epic of
-    Gilgamesh”](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-2.1.1-Study-Questions-for-Epic-of-Gilgamesh-FINAL.pdf) (PDF)  
+    Gilgamesh”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-2.1.1-Study-Questions-for-Epic-of-Gilgamesh-FINAL.pdf) (PDF)  
         
      Instructions: Complete this assessment. You can check your answers
     against the [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-2.1.1-Reading-Guide-Epic-of-GilgameshHIST101-Subunit-2.1.1-Reading-Guide-Epic-of-Gilgamesh-FINAL.pdf).
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-2.1.1-Reading-Guide-Epic-of-GilgameshHIST101-Subunit-2.1.1-Reading-Guide-Epic-of-Gilgamesh-FINAL.pdf).
 
 **2.1.2 The Fall of Sumer and the Rise of the Babylonian Empire** <span
 id="2.1.2"></span> 
 -   **Reading: Livius: Jona Lendering’s “Babylonian Empire”**
     Link: Livius: Jona Lendering’s [“Babylonian
-    Empire”](http://www.saylor.org/site/wp-content/uploads/2011/09/Babylonian-Empire.pdf) (PDF)  
+    Empire”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Babylonian-Empire.pdf) (PDF)  
         
      Instructions: Read this article for a good overview of the rise and
     fall of ancient Babylon.  
@@ -193,11 +193,11 @@ id="2.1.2"></span> 
     Northeast Africa”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History*:
     [“Africa, 3000-1500 B.C., Northeast
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2011/09/Africa_-3000-to-1500-B.C..pdf)
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Africa_-3000-to-1500-B.C..pdf)
     (PDF), [“Africa, 1500-1000, B.C., Northeast
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2011/09/Africa_-1500-to-1000-B.C..pdf)
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Africa_-1500-to-1000-B.C..pdf)
     (PDF), and [“Africa, 1000-700, B.C., Northeast
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2011/09/Africa_-1000-to-700-B.C..pdf)
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Africa_-1000-to-700-B.C..pdf)
     (PDF)  
          
      Instructions: Read these three articles to get a historical
@@ -280,7 +280,7 @@ id="2.2.2"></span> 
     Africa”  
         
      Link: The Saylor Foundation’s “[Kush and Axum: Empires of East
-    Africa](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-2.3.1-KushAxum-FINAL1.pdf)”
+    Africa](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-2.3.1-KushAxum-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “Kush and Axum: Empires of East Africa”
@@ -311,7 +311,7 @@ id="2.2.2"></span> 
 **2.3.2 The Minoans** <span id="2.3.2"></span> 
 -   **Reading: The Saylor Foundation's “History of Minoan Crete”**
     Link: Ancient- The Saylor Foundation’s “[History of Minoan
-    Crete](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-2.3.2-MinoanCrete-FINAL1.pdf)”
+    Crete](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-2.3.2-MinoanCrete-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read this text in its entirety.  This reading
@@ -338,7 +338,7 @@ id="2.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Fall of Minoan
     Civilization”**
     Link: The Saylor Foundation’s “[The Fall of Minoan
-    Civilization](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-2.3.2-FallofMinoanCiv-FINAL1.pdf)”
+    Civilization](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-2.3.2-FallofMinoanCiv-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article to get a sense of the

@@ -45,11 +45,11 @@ Upon successful completion of this unit, the student will be able to:
     Outline of World History*: “Europe: Greece”**
     Link: Jack E. Maxfield’s *A Comprehensive* *Outline of World
     History*: “Europe: Greece”: [“Europe, 700-601 B.C.,
-    'Greece,'”](http://www.saylor.org/site/wp-content/uploads/2011/09/Europe_-700-to-601-B.C..pdf)
+    'Greece,'”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Europe_-700-to-601-B.C..pdf)
     “[Europe, 600-501 B.C.,
-    'Greece](http://www.saylor.org/site/wp-content/uploads/2011/09/Europe_-600-to-501-B.C..pdf)',”
+    'Greece](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Europe_-600-to-501-B.C..pdf)',”
     “[Europe, 500-401 B.C.,
-    “Greece”](http://www.saylor.org/site/wp-content/uploads/2011/09/Europe_-500-to-401-B.C..pdf)”
+    “Greece”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Europe_-500-to-401-B.C..pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of all three sections in
@@ -209,7 +209,7 @@ Upon successful completion of this unit, the student will be able to:
     History*: "Europe: 400-301 B.C.”: “Greece” and “Upper Balkans”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History*:
     "[Europe: 400-301 B.C.": “Greece” and “Upper
-    Balkans”](http://www.saylor.org/site/wp-content/uploads/2011/09/Europe_-400-to-301-B.C..pdf)
+    Balkans”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Europe_-400-to-301-B.C..pdf)
     (HTML, PDF, and EPUB)  
         
      Instructions: Please read the entirety of all three sections in
@@ -281,7 +281,7 @@ period”), and read the first four paragraphs.*
     "The Allegory of the Cave"**
     Link: The History Guide: Benjamin Jowett translation of Plato’s
     [*The Allegory of the
-    Cave*](http://www.saylor.org/site/wp-content/uploads/2012/05/The-Allegory-of-the-Cave.pdf)** (PDF)  
+    Cave*](https://resources.saylor.org/archived/wp-content/uploads/2012/05/The-Allegory-of-the-Cave.pdf)** (PDF)  
       
      Instructions: Please read this text in its entirety.  The Allegory
     of the Cave describes four stages through which a person has to pass
@@ -323,12 +323,12 @@ period”), and read the first four paragraphs.*
     Allegory of the Cave”**
     Link: The Saylor Foundation’s “[Study Questions for Plato’s Allegory
     of the
-    Cave](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-5.3.5-Study-Questions-for-Platos-Allegory-of-the-Cave-FINAL.pdf)”
+    Cave](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-5.3.5-Study-Questions-for-Platos-Allegory-of-the-Cave-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the study questions.  You can compare
     your answers to the “[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/10/HIST101-Subunit-5.3.5-Reading-Guide-Allegory-of-the-Cave-Final.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-5.3.5-Reading-Guide-Allegory-of-the-Cave-Final.pdf)”
     (PDF)  
 
 

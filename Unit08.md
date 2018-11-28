@@ -47,13 +47,13 @@ Upon successful completion of this unit, the student will be able to:
     Outline of World History: “The Americas”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History:*
     “The Americas” “[America: Beginning to 8000
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/America_-Beginning-to-8000-B.C..pdf)”,
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/America_-Beginning-to-8000-B.C..pdf)”,
     “[America: 8000 to 5000
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/America_-8000-to-5000-B.C..pdf)”,
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/America_-8000-to-5000-B.C..pdf)”,
     “[America: 5000 to 3000
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/America_-5000-to-3000-B.C..pdf)”,
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/America_-5000-to-3000-B.C..pdf)”,
     “[America: 3000 to 1500
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/America_-3000-to-1500-B.C..pdf)”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/America_-3000-to-1500-B.C..pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of all four sections in
@@ -99,7 +99,7 @@ Upon successful completion of this unit, the student will be able to:
     of World History: America: 5000 – 3000 BC”**
     Link: Connexions: Jack E. Maxfield’s [“A Comprehensive Outline of
     World History: America: 5000 – 3000
-    BC”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST101-8.2-America5000to3000BC.pdf) (PDF)   
+    BC”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST101-8.2-America5000to3000BC.pdf) (PDF)   
       
      Instructions: Please read these select sections of Jack E.
     Maxfield’s text to learn about the introduction of agriculture to
@@ -116,7 +116,7 @@ Upon successful completion of this unit, the student will be able to:
     of World History: America: 1500 – 1000 BC”**
     Link: Connexions: Jack E. Maxfield’s [“A Comprehensive Outline of
     World History: America: 1500 – 1000
-    BC”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST101-8.2.1-America1500to1000BC1.pdf) (PDF)  
+    BC”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST101-8.2.1-America1500to1000BC1.pdf) (PDF)  
       
      nstructions: Please read this select section to learn about the
     ancient Olmecs.  
@@ -132,7 +132,7 @@ Upon successful completion of this unit, the student will be able to:
     Civilizations of Teotihuacán and the Mayas”**
     Link: Jack E. Maxfield’s [“The Rise and Fall of the Civilizations of
     Teotihuacán and the
-    Mayas”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST101-8.2.2-TeotihuacanandtheMayas.pdf) (PDF)  
+    Mayas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST101-8.2.2-TeotihuacanandtheMayas.pdf) (PDF)  
       
      Instructions: Read this article which will chronicle the rise and
     fall of the civilizations of Teotihuacán and the Mayas.  
@@ -161,7 +161,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “The Toltecs”**
     Link: The Saylor Foundation’s “[The
-    Toltecs](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-8.2.3-Toltecs-FINAL.pdf)”
+    Toltecs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-Subunit-8.2.3-Toltecs-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the above linked page.
@@ -187,7 +187,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.3.2 The Tiahuanaco** <span id="8.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Tiahuanaco Culture”**
     Link: The Saylor Foundation’s “[The Tiahuanaco
-    Culture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-8.3.2-Tiahuanaco-Final.pdf)”
+    Culture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-Subunit-8.3.2-Tiahuanaco-Final.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the above linked page.

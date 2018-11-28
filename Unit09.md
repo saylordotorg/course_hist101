@@ -47,7 +47,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Birth of Islamic
     Civilization”**
     Link: The Saylor Foundation’s “[The Birth of Islamic
-    Civilization](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-9.1-IslamicCiv-FINAL1.pdf)”
+    Civilization](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-9.1-IslamicCiv-FINAL1.pdf)”
     (PDF).  
         
      Introduction: This reading covers subunits 9.1.1 and 9.1.2.  Please
@@ -99,7 +99,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Understanding Islam”**
     Link:The Saylor Foundation’s  “[Understanding
-    Islam](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-9.1.3-UnderstandingIslam-FINAL1.pdf)”
+    Islam](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-9.1.3-UnderstandingIslam-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please “Understanding Islam” in order to get a sense
@@ -136,7 +136,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Umayyads: The First Muslim
     Dynasty”**
     Link: The Saylor Foundation’s “[The Umayyads: The First Muslim
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-9.2-Umayyads-FINAL1.pdf)”
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-9.2-Umayyads-FINAL1.pdf)”
     (PDF).  
         
      Instructions: This reading covers subunits 9.2.1-9.2.3.  Please
@@ -145,7 +145,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Sunnis and Shiites”**
     Link: The Saylor Foundation’s “[Sunnis and
-    Shiites](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-9.2-SunnisShiites-FINAL1.pdf)”
+    Shiites](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-9.2-SunnisShiites-FINAL1.pdf)”
     (PDF).  
         
      Instructions: This reading covers subunits 9.2.1-9.2.3. Please read
@@ -171,7 +171,7 @@ id="9.3"></span> 
     Age of Islamic Civilization”**
     Link: The Saylor Foundation’s “[The Abbasid Dynasty: The Golden Age
     of Islamic
-    Civilization](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-9.3.1-AbbasidDynasty-FINAL1.pdf)”
+    Civilization](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-9.3.1-AbbasidDynasty-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read "The Abbasid Dynasty," about the

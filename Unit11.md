@@ -65,7 +65,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “The Byzantine Empire:
     Introduction”**
     Link: The Saylor Foundation’s “[The Byzantine Empire:
-    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-11.1-ByzantineIntro-FINAL1.pdf)”
+    Introduction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-11.1-ByzantineIntro-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Please read “The Byzantine Empire: Introduction” for
@@ -75,7 +75,7 @@ Upon successful completion of this unit, the student will be able to:
     of New Rome"**
     Link: The Saylor Foundation's "[The Byzantine Empire: The Empire of
     New
-    Rome](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-11.1-ByzantineEmpire-FINAL1.pdf)"
+    Rome](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-11.1-ByzantineEmpire-FINAL1.pdf)"
     (PDF)  
       
      Instructions: Please read this article in its entirety.  Pay
@@ -90,7 +90,7 @@ id="11.1.1"></span> 
     1324-1354**
     Link: Fordham University’s *Medieval Sourcebook:* Professor Paul
     Halsall’s version of [Ibn Battuta’s *Travels in Asia and Africa
-    1324-1354*](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Internet-History-Sourcebooks-Project.pdf)
+    1324-1354*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Internet-History-Sourcebooks-Project.pdf)
     (PDF)  
         
      Instructions: Please read pages 159-164, which highlight Ibn
@@ -107,7 +107,7 @@ id="11.1.1"></span> 
     Fordham University, hosts a variety of medieval primary-source
     texts. Ibn Battuta's [*Travels in Asia and Africa 1324-1354* is in
     the public
-    domain.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Internet-History-Sourcebooks-Project.pdf)
+    domain.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Internet-History-Sourcebooks-Project.pdf)
 
 -   **Reading: History World Project: Professor Donald MacGillivray
     Nicol’s “Byzantium: The Shining Fortress Introduction”**
@@ -158,7 +158,7 @@ id="11.2"></span> 
     Link: American Historical Association: Constructing a Postwar World:
     The G.I. Roundtable Series in Context: [“The Balkans—Many Peoples,
     Many
-    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Balkans_-The-Long-Story-of-Differences.pdf)
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Balkans_-The-Long-Story-of-Differences.pdf)
     (PDF)  
         
      Instructions: Please read the entire article, which shows how the

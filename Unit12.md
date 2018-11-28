@@ -171,12 +171,12 @@ id="12.1.2"></span> 
     The Canterbury Tales”**
     Link: The Saylor Foundation’s “Study Questions for Chaucer’s *[The
     Canterbury
-    Tales](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-12.2.3-Study-Questions-for-Chaucers-Canterbury-Tales-FINAL.pdf)*”
+    Tales](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-Subunit-12.2.3-Study-Questions-for-Chaucers-Canterbury-Tales-FINAL.pdf)*”
     (PDF)  
         
      Instructions: Please complete the questions in the assessment.  You
     can check your answers against the “[Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-12.2.3-Reading-Guide-to-Chaucers-Canterbury-Tales-FINAL.pdf)”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-Subunit-12.2.3-Reading-Guide-to-Chaucers-Canterbury-Tales-FINAL.pdf)”
     (PDF).
 
 **12.2.4 The Black Death** <span id="12.2.4"></span> 

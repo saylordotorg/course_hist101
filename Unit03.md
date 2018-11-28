@@ -37,9 +37,9 @@ Upon successful completion of this unit, the student will be able to:
     Subcontinent, 1500-1000 B.C.”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History*:
     “[The Indian Subcontinent, 3000-1500
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Indian-Subcontinent_-3000-to-1500-B.C..pdf)”,
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Indian-Subcontinent_-3000-to-1500-B.C..pdf)”,
     “[The Indian Subcontinent, 1500-1000
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Indian-Subcontinent_-1500-to-1000-B.C..pdf)”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Indian-Subcontinent_-1500-to-1000-B.C..pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the articles and sections
@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Indus Valley Civilization”**
     Link: The Saylor Foundation’s “[Indus Valley
-    Civilization](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-3.1-IndusValley-FINAL1.pdf)”
+    Civilization](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-3.1-IndusValley-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read the entirety of “Indus Valley
@@ -93,7 +93,7 @@ id="3.1.1"></span> 
 **3.1.2 Aryan Society and Religion** <span id="3.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Aryan Society and Religion”**
     Link: The Saylor Foundation’s “[Aryan Society and
-    Religion](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-Subunit-3.1.2-Aryan-Society-and-Religion-Final.pdf)”
+    Religion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-Subunit-3.1.2-Aryan-Society-and-Religion-Final.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the above linked page.
@@ -116,7 +116,7 @@ id="3.1.1"></span> 
 
 -   **Reading: The Saylor Foundation’s “Ancient China”**
     Link: The Saylor Foundation’s “[Ancient
-    China](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-3.2-ChinaIntro-FINAL1.pdf)”
+    China](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-3.2-ChinaIntro-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please “Ancient China” to get a sense of the material
@@ -125,7 +125,7 @@ id="3.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “The Ancient Dynasties: China’s
     Prehistory”**
     Link: The Saylor Foundation’s “[The Ancient Dynasties: China’s
-    Prehistory](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-3.2-AncientDynasties-FINAL1.pdf)”
+    Prehistory](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-3.2-AncientDynasties-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Ancient Dynasties” for a overview of
@@ -149,7 +149,7 @@ id="3.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Shang Society and Shang
     Culture”**
     Link: The Saylor Foundation’s “[Shang Society and Shang
-    Culture](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-3.2.1-ShangSociety-FINAL1.pdf)”
+    Culture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-3.2.1-ShangSociety-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “Shang Society and Shang Culture” about
@@ -160,7 +160,7 @@ id="3.1.1"></span> 
 id="3.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Zhou Dynasty”**
     Link: The Saylor Foundation’s “[The Zhou
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-3.2.2-ZhouDynasty-FINAL1.pdf)”
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-3.2.2-ZhouDynasty-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Zhou Dynasty” for an overview of the

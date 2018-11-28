@@ -57,9 +57,9 @@ id="4.1"></span> 
     History*: “The Far East”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History*:
     “[The Far East, 600-501
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Far-East_-600-to-501-B.C..pdf),”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Far-East_-600-to-501-B.C..pdf),”
     “[The Far East, 400-301
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Far-East_-400-to-301-B.C..pdf)”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Far-East_-400-to-301-B.C..pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of both articles in order to
@@ -170,7 +170,7 @@ id="4.1"></span> 
     History*: “The Far East, 300-201 B.C.”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World History:*
     “[The Far East, 300-201
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/09/The-Far-East_-300-to-201-B.C..pdf)”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/The-Far-East_-300-to-201-B.C..pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the article in order to
@@ -190,7 +190,7 @@ id="4.1"></span> 
 
 -   **Reading: The Saylor Foundation’s “The Qin Dynasty”**
     Link: The Saylor Foundation’s “[The Qin
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-4.2-QinDynasty-FINAL1.pdf)”
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-4.2-QinDynasty-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Qin Dynasty” for an overview of the
@@ -207,9 +207,9 @@ id="4.3"></span> 
     B.C.”**
     Link: Jack E. Maxfield’s *A Comprehensive Outline of World
     History*: “[The Far East, 200-101
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/10/HIST101-4.3.pdf),”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/HIST101-4.3.pdf),”
     “[The Far East, 100-0
-    B.C.](https://resources.saylor.org/archived/wp-content/uploads/2011/10/HIST101-4.3-p-2.pdf)”
+    B.C.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/HIST101-4.3-p-2.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of both articles in order to
@@ -229,7 +229,7 @@ id="4.3"></span> 
 
 -   **Reading: The Saylor Foundation’s “The Han Dynasty”**
     Link: The Saylor Foundation’s “[The Han
-    Dynasty](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-4.3-HanDynasty-FINAL1.pdf)”
+    Dynasty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-4.3-HanDynasty-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “The Han Dynasty” for an overview of the
@@ -259,7 +259,7 @@ id="4.3"></span> 
 -   **Reading: Reading: The Saylor Foundation’s “China: The Imperial
     Era”**
     Link: The Saylor Foundation’s “[China: The Imperial
-    Era](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-4.3.3-ImperialEra-FINAL1.pdf)”
+    Era](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-4.3.3-ImperialEra-FINAL1.pdf)”
     (PDF).  
         
      Instructions: Please read “China: the Imperial Era” in its entirety

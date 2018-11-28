@@ -37,14 +37,14 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation’s “The Invention and Diffusion of
     Civilization”**
     Link: The Saylor Foundation’s [“The Invention and Diffusion of
-    Civilization”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-1.1-AncientCivsIntro-FINAL1.pdf) (PDF)  
+    Civilization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-1.1-AncientCivsIntro-FINAL1.pdf) (PDF)  
         
      Instructions: Read this article in order to get an overview of the
     emergence of the earliest civilizations.
 
 -   **Reading: The Saylor Foundation’s “What Is Civilization?”**
     Link: The Saylor Foundation’s [“What Is
-    Civilization?”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-1.1-WhatIsCivilization-FINAL1.pdf)
+    Civilization?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-1.1-WhatIsCivilization-FINAL1.pdf)
     (PDF)  
         
      Instructions: Read this article to get a sense of the definition of
@@ -54,7 +54,7 @@ Upon successful completion of this unit, you will be able to:
 **1.2 Origins of Neolithic Man** <span id="1.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Origin of Civilization”**
     Link: The Saylor Foundation’s [“The Origin of
-    Civilization”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/HIST101-1.2-OriginsofCiv-FINAL1.pdf) (PDF)  
+    Civilization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/HIST101-1.2-OriginsofCiv-FINAL1.pdf) (PDF)  
         
      Instructions: Read this article and pay special attention to the
     section “The Consequences of Agriculture.”
@@ -110,7 +110,7 @@ id="1.4"></span> 
     Comes Home”**
     Link: UCL Institute of Archaeology: Shahina Farid’s [“Çatalhöyük
     Comes
-    Home”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST101-4.1-ÇatalhöyükcomesHome.pdf) (PDF)  
+    Home”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIST101-4.1-ÇatalhöyükcomesHome.pdf) (PDF)  
       
      Instructions: Read this article to learn about the origin and
     culture of the Neolithic town of Çatalhöyük in Anatolia (Modern
